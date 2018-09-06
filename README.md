@@ -1,4 +1,4 @@
-"# TravelersSite" 
+ 
 ## TravelersSite Recommendation Web App
 TravelersSite is a website for traveling lovers to share their visited sites and check out for their potential next travel destinations. It's built on MVC pattern with MySQL-Java Servlet/JSP-Apache Tomcat stack. And the recommendation system is based on the item-based collabrative filtering algorithm. In TravelersSite, users are able to:
 * build up their personal profiles;
