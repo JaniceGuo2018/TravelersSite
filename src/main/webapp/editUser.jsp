@@ -8,21 +8,14 @@
 </head>
 <body>
 	
-<div class="container">
-	
-	<div class="py-5 text-center">
-        
-        <h2>Edit User Profile</h2>
-       
+<div class="container">	
+	<div class="py-5 text-center">     
+        <h2>Edit User Profile</h2>       
      </div>
      
-       <div class="row">
-        
-      
+       <div class="row">      
         <div class="col-md-8 order-md-1" style="width: 30%; margin: 0 auto">
-       
-          <form class="needs-validation"   action="editUserProfile" method="post">
-
+                 <form class="needs-validation"   action="editUserProfile" method="post">
            <div class="row">
              
               <div class="col-md-6 mb-3">
